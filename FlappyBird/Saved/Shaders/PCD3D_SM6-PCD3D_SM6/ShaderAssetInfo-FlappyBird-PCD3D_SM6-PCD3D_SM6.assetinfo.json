@@ -221,7 +221,8 @@
 		{
 			"ShaderMapHash": "89BAEA73DBFD4AF02B0BF3F61404D298A35B4B19",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
